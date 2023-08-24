@@ -1,0 +1,22 @@
+.section__padding{
+    padding: 4rem 4rem;
+}
+
+.footer{
+    background-color: var(--grey);
+}
+.sb__footer{
+    display: flex;
+    flex-direction: column;
+}
+sb__footer-links{
+    display: flex;
+    justify-content:space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 2rem;
+}
+
